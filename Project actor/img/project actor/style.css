@@ -1,0 +1,43 @@
+header {
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    border: 1px solid white;
+    margin: 25px;
+  }
+  
+  body {
+    background-color: #283845;
+    color: antiquewhite;
+  }
+  
+  nav :hover {
+    color: #5bc0be;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin: 25px;
+  }
+  
+  h2 {
+    font-size: 2.5em;
+    width: 70%;
+    height: 70%;
+    padding: 20px 20px 30px 20px;
+  }
+  
+  p {
+    margin: 20px;
+  }
+  
+  .main-header {
+    padding: 15px;
+  }
+  
+  a {
+    font-size: 1.5em;
+    color: lightblue;
+  }
+  
